@@ -17,7 +17,7 @@ class Node{
 
 int main(){
 
-    Node* node1= new Node(10);
+    Node* node1= new Node(12);
     cout<<node1->data<<endl;
     cout<<node1->next<<endl;
     return 0;
